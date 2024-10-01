@@ -73,7 +73,7 @@ export const EmailEditor = () => {
             )}
             key={ActiveTabKeys.PC}
           >
-            <DesktopEmailPreview />
+            A4
           </TabPane>
           <TabPane
             style={{ height: 'calc(100% - 50px)' }}
